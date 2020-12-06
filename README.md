@@ -1,6 +1,6 @@
 # software
 
 hello
+it is code that is crawling https://www.10000recipe.com/recipe/list.html
 
-안녕하세요 
-현재 시간 오후 5시 41분 입니다.
+it gets image, name in list(10 recipes)
